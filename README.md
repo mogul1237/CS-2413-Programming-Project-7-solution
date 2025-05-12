@@ -1,2 +1,9 @@
 # CS-2413-Programming-Project-7-solution
-CS 2413 Programming Project 7 solution
+
+Download Here: [CS 2413 Programming Project 7 solution](https://jarviscodinghub.com/assignment/cs-2413-programming-project-7-solution/)
+
+For Custom/Original Work email jarviscodinghub@gmail.com/whatsapp +1(541)423-7793
+
+Objectives
+1. [70 Points] Create all the methods and fields to implement the adjacency list based data structure for storing a graph. You will create a class GraphAdjList with fields and methods as follows (Note that you may have additional fields and methods as needed). a. Non-empty constructor that takes in the number nodes and edge of the graph b. ostream operator that prints the adjacency list c. destructor d. addEdge (int x, int y) – add an edge between vertex x and vertex y e. dfs (int x) where x is the staring node and its output is a parent array which represents the depth first search tree (if it returns a ParentMultiTree class object you get a bonus of 10%) f. bfs (int x) where x is the starting node and its output is a parent array which represents the breadth first search tree (bonus 15%) 2. [20 Points] Demonstrate the working of all the methods. 3. [10 Points] Document your project thoroughly as the examples in the textbook. This includes but not limited to header comments for all classes/methods, explanatory comments for each section of code, meaningful variable and method names, and consistent indentation. Project Description The input to your project will be as follows: The first line of input will be number of vertices n and number of edges m in the graph. This line of input will be followed by m lines of input. Each line of input will have two integers representing an edge. Class Structures
+You are required to implement the following class structure along with the implementation of the methods associated with each of them. template
